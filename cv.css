@@ -28,9 +28,10 @@ header {
 nav {
   float: left;
   width: 30%;
-  height:610px; /* only for demonstration, should be removed */
+  height:1799px; /* only for demonstration, should be removed */
   background: #782221;
   padding: 20px;
+  color: #ffffff;
 
 }
 
@@ -52,7 +53,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f1f1f1;
+  background-color: #ffffff;
   height: 100%; /* only for demonstration, should be removed */
 }
 
@@ -72,6 +73,7 @@ width: 100px;
 
 h1 {
 background-color:#dbc2a4  ;
+font-size: 30px;
 
 .lato-thin {
   font-family: "Lato", sans-serif;
