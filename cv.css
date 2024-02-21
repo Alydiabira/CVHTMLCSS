@@ -130,6 +130,33 @@ width: 160px;
 }
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover */
 
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
+
 
 h1 {
 background-color:#dbc2a4  ;
