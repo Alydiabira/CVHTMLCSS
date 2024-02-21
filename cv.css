@@ -225,7 +225,9 @@ font-size: 30px;
 }
 
 
-
+.fab:hover {
+  opacity: 0.5;
+}
 
 /* Style the footer */
 footer {
