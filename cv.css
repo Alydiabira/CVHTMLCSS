@@ -91,6 +91,13 @@ article {
   border-right-width: unset;
 }
 
+blockquote {
+  font-size: 50px;
+}
+span {
+  font-size: 30px;
+}
+
 /* Clear floats after the columns */
 section::after {
   content: "";
