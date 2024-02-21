@@ -224,10 +224,11 @@ font-size: 30px;
 
 }
 
-
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss_image_transparency2 */
 .fab:hover {
   opacity: 0.5;
 }
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss_image_transparency2 */
 
 /* Style the footer */
 footer {
