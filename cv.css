@@ -114,7 +114,7 @@ width: 160px;
 
 
 
-
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover */
 .zoom {
   padding: 50px;
   transition: transform .2s;
@@ -128,6 +128,8 @@ width: 160px;
   -webkit-transform: scale(1.5); /* Safari 3-8 */
   transform: scale(1.5); 
 }
+/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover */
+
 
 h1 {
 background-color:#dbc2a4  ;
