@@ -110,8 +110,17 @@ section::after {
   box-shadow: 1px 1px 12px #ffffff ;
   height: 160px;
 width: 160px;
+
 }
 
+.img2 {
+  border-radius: 50% ;
+  box-shadow: 1px 1px 12px #ffffff ;
+  height: 160px;
+width: 160px;
+justify-content: center;
+align-content: center;
+}
 
 
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover */
