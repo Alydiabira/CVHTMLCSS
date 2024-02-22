@@ -224,11 +224,43 @@ font-size: 30px;
 
 }
 
-/* https://www.w3schools.com/css/tryit.asp?filename=trycss_image_transparency2 */
 .fab:hover {
   opacity: 0.5;
+
 }
-/* https://www.w3schools.com/css/tryit.asp?filename=trycss_image_transparency2 */
+
+/* https://www.w3schools.com/howto/howto_css_social_media_buttons.asp */
+.fa {
+  padding: 5px;
+  margin: 5px 2px;
+  font-size: 30px;
+  width: 50px;
+  height: 40px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-github {
+  background: #ffffff;
+  color: rgb(4, 4, 4);
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+/* https://www.w3schools.com/howto/howto_css_social_media_buttons.asp */
+
 
 /* Style the footer */
 footer {
