@@ -9,7 +9,7 @@ body {
   width:1160px;
   margin-left: auto;
   margin-right: auto;
-
+  border-right: 1px solid #000000 ;
 
 }
 
@@ -96,11 +96,10 @@ article {
   width: 70%;
   background-color: #ffffff;
   height: 100%; /* only for demonstration, should be removed */
-  border-right: 5px solid #000000 ;
   border-right-width: unset;
 }
 
-blockquote {
+aside {
   font-size: 30px;
 }
 span {
