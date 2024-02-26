@@ -157,7 +157,7 @@ align-content: center;
 .container {
   position: relative;
   width: 50%;
-  padding-left: 460px;
+  padding-left: 475px;
 }
 
 .center {
@@ -193,7 +193,7 @@ align-content: center;
   color: white;
   font-size: 16px;
   /* padding: 16px 32px; */
-  margin-left: 525px;
+  margin-left: 555px;
 }
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
 
