@@ -27,7 +27,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height:1540px; 
+  height:1603px; 
   background: #782221;
   padding: 20px;
   color: #ffffff;
@@ -74,8 +74,8 @@ hgroup a {
     text-decoration: none;
     }
   
-    /* .container1{
-  background-color: #007bb5;
+    /* .center{
+
     } */
     
   .container2{
@@ -133,33 +133,18 @@ align-content: center;
 }
 
 
-/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover */
-.zoom {
-  padding: 50px;
-  transition: transform .2s;
-  width: 100%;
-  height: 100%;
-  margin: 0  auto;
-justify-content: center;
-align-content: center;
-}
 
-.zoom:hover {
-  -ms-transform: scale(1.5); /* IE 9 */
-  -webkit-transform: scale(1.5); /* Safari 3-8 */
-  transform: scale(1.5); 
-}
-/* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover */
 
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
 .container {
   position: relative;
   width: 50%;
+  padding-left: 460px;
 }
 
-.image {
+.center {
   opacity: 1;
-  display: block;
+  display: flex;
   width: 100%;
   height: auto;
   transition: .5s ease;
@@ -186,10 +171,11 @@ align-content: center;
 }
 
 .text {
-  background-color: #04AA6D;
+  background-color: #04aa6d15;
   color: white;
   font-size: 16px;
-  padding: 16px 32px;
+  /* padding: 16px 32px; */
+  margin-left: 525px;
 }
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
 
