@@ -13,7 +13,6 @@ body {
 
 }
 
-
 /* Style the header */
 header {
   background-color: #782221;
@@ -74,9 +73,12 @@ hgroup a {
     text-align: center;
     text-decoration: none;
     }
-
   
-  .container2 {
+    /* .container1{
+  background-color: #007bb5;
+    } */
+    
+  .container2{
     display: flex;
     justify-content: space-around;
     color: #f1f1f1;
@@ -184,6 +186,7 @@ align-content: center;
 }
 
 .text {
+  background-color: #04AA6D;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
